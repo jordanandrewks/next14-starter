@@ -4,9 +4,9 @@ import Navbar from "@/components/navbar/Navbar";
 import Footer from "@/components/footer/Footer";
 
 const inter = Inter({
-   subsets: ["latin"],
-   weight: [700]
-   });
+  subsets: ["latin"],
+  weight: ["700"],
+});
 
 export const metadata = {
   title: "Next App",
